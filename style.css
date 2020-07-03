@@ -976,6 +976,11 @@
 .whitep {
     color: white;
     font-weight: bold;
+    font-size: 1.3em;
+}
+
+.whitep:hover {
+    color: blue;
 }
 
 
