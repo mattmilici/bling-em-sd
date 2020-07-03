@@ -940,6 +940,7 @@
     margin-bottom: 30px;
     padding: 0 24px;
     resize: none;
+    background-color: white;
 }
 
 #contact-form input::-moz-placeholder,
@@ -970,6 +971,11 @@
 
 .submit-btn {
     margin-top: 70px;
+}
+
+.whitep {
+    color: white;
+    font-weight: bold;
 }
 
 
