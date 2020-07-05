@@ -1559,7 +1559,8 @@ textarea:focus {
 
 .bg-6 {
     /* background-image: url("../../img/bg/6.jpg"); */
-    background-color: #9d8f8f;
+    /* background-color: #e4e3e3; */
+    background-color: #e4e3e3;
 }
 
 .bg-7 {
@@ -1684,7 +1685,7 @@ textarea:focus {
 
 .section-title>h2,
 .section-title-light>h2 {
-    color: #ffffff;
+    color: #e51515;
     font-family: "oswalddemibold";
     margin-bottom: 29px;
     text-transform: uppercase;
